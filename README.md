@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mikeome7
+- 🌱 I’m currently learning some programming basics.
